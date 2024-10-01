@@ -1,0 +1,6 @@
+@Pokedex_monolit_HostAddress = http://localhost:5274
+
+GET {{Pokedex_monolit_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
